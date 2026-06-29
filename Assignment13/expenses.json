@@ -1,0 +1,10 @@
+[
+  { "id": 3, "category": "transport", "price": 999 },
+  { "id": 7, "category": "education", "price": 120 },
+  { "id": 8, "category": "food", "price": 28 },
+  { "id": 9, "category": "transport", "price": 40 },
+  { "id": 10, "category": "shopping", "price": 180 },
+  { "id": 11, "category": "utilities", "price": 95 },
+  { "id": 12, "category": "entertainment", "price": 65 },
+  { "id": 13, "category": "coffee", "price": 12 }
+]
